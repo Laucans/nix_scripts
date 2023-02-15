@@ -1,0 +1,16 @@
+{
+  "master_id_rsa_filepath": "~/.ssh/id_rsa",
+  "master_ip": "IP",
+  "runner_user": "username",
+  "sudoer_user": "administrator",
+  "builder": [
+    {
+      "arch": "x86_64-darwin | aarch64-darwin | x86_64-linux | aarch64-linux",
+      "name": "builder_name",
+      "ip": "machine ip",
+      "runner_user": "username",
+      "sudoer_user": "administrator"
+    }
+    ...
+  ]
+}
